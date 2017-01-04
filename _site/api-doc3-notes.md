@@ -1,8 +1,4 @@
-# Notes from the "The Art of API Documentation" course
-
-GitHub Pages website: https://kenneth-lau.github.io/udemy-api-doc3
-
-For more information on this course, see [The Art of API Documentation](https://www.udemy.com/the-art-of-api-documentation) at Udemy.
+# The Art of API Documentation
 
 ## 2.2 Conceptual material
 * Overview
@@ -12,7 +8,7 @@ For more information on this course, see [The Art of API Documentation](https://
   * Workflow
   * Visual information, diagrams,
 * Getting started
-  * Lead people through a simple task
+  * Lead people through a simple taske
   * WEB APIs
     * registration
     * get an app key
